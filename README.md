@@ -1,4 +1,4 @@
-# 简单的eslint config
+## 简单的Eslint配置
 .eslintrc.json es6:
 ```js
 {
