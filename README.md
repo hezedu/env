@@ -19,7 +19,8 @@
     "rules": {
         "indent": [
             "warn",
-            2
+            2,
+            { "SwitchCase": 1 }
         ],
         "no-unreachable": "warn",
         "no-unused-vars": "warn",
