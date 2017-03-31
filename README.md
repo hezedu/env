@@ -1,4 +1,4 @@
-# env
+# 简单的eslint config
 .eslintrc.json es6:
 ```js
 {
