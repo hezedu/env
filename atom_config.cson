@@ -1,0 +1,14 @@
+"*":
+  core:
+    disabledPackages: [
+      "language-vue-component"
+      "terminal-plus"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 31
+    softWrap: true
+  "exception-reporting":
+    userId: "d503e11f-7b8d-cfef-fd8d-c4b1d98b0a64"
+  welcome:
+    showOnStartup: false
