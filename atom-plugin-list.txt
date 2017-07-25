@@ -1,0 +1,4 @@
+linter
+linter-eslint
+language-vue
+language-vue-component
