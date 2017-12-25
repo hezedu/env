@@ -25,5 +25,5 @@
     "editor.parameterHints": false,
     "editor.wordBasedSuggestions": false,
     "editor.snippetSuggestions": "none",
-    "update.channel": "off"
+    "update.channel": "none"
 }
