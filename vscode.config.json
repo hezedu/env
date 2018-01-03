@@ -21,9 +21,9 @@
       "**/node_modules/**": true,
       "files.defaultLanguage": "js"
     },
-    "editor.quickSuggestions": false,
+    "editor.quickSuggestions": true,
     "editor.parameterHints": false,
     "editor.wordBasedSuggestions": false,
     "editor.snippetSuggestions": "none",
-    "update.channel": "none"
+    "update.channel": "default"
 }
