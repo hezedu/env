@@ -24,6 +24,5 @@
     "editor.quickSuggestions": true,
     "editor.parameterHints": false,
     "editor.wordBasedSuggestions": false,
-    "editor.snippetSuggestions": "none",
-    "update.channel": "default"
+    "editor.snippetSuggestions": "none"
 }
