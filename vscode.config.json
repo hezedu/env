@@ -22,6 +22,7 @@
       "files.defaultLanguage": "js"
     },
     "editor.quickSuggestions": true,
+    "javascript.suggest.autoImports": false,
     "editor.wordBasedSuggestions": false,
     "editor.snippetSuggestions": "none"
 }
